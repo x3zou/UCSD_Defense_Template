@@ -21,7 +21,7 @@ A polished, presentation-ready PowerPoint template for doctoral dissertation def
 
 ### Well-structured defense narrative
 
-The 34-slide template provides a complete framework for a dissertation defense:
+The 26-slide template provides a complete framework for a dissertation defense:
 
 1. Title slide
 2. Introduction and research motivation
@@ -64,6 +64,8 @@ Repeated chapter-menu slides show the audience where they are in the talk, while
 ## Compatibility
 
 Microsoft PowerPoint for desktop is recommended for the intended experience. GitHub and browser-based previews may not reproduce transitions, embedded media, animations, or internal slide hyperlinks; download the `.pptx` file and present it in Slide Show mode.
+
+The repository copy uses presentation-resolution media to stay within GitHub's browser-upload limit while retaining the animated slide content.
 
 ## Before publishing publicly
 
